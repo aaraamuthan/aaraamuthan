@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [icrewsystems](https://github.com/icrewsystemsofficial/)
 - 🌱 I’m currently learning Full Stack Development
-- 💬 Ask me anything about technology, electronic gadgets and football⚽
+- 💬 Ask me anything about Technology, Web development
 - 📫 Feel free to write your story/questions to **aaraamuthanb@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
