@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋, I'm Aara Amuthan</h1>
-<h3 align="center">Website builder🛠</h3>
+<h3 align="center">Web Developer 💻</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaraamuthan&label=Profile%20views&color=0e75b6&style=flat" alt="aaraamuthan" /></p>
 
-- 🔭 I’m currently working on [icrewsystems](https://github.com/icrewsystemsofficial/)
 - 🌱 I’m currently learning Full Stack Development
 - 💬 Ask me anything about Technology, Web development
 - 📫 Feel free to write your story/questions to **aaraamuthanb@gmail.com**
